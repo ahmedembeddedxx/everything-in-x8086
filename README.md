@@ -1,6 +1,6 @@
 # Everything but Assembly
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedx/Everything_but_Assembly/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE)
 
 ## Overview
 
@@ -22,7 +22,7 @@ The time it was written only God and I know how these programs work. Now only Go
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/Everything-but-Assembly.git
+    git clone https://github.com/ahmedembeddedxx/everything-in-x8086.git
     ```
 
 2. Dive into the diverse world of programming without worrying about assembly intricacies.
@@ -40,6 +40,6 @@ Connect with fellow programmers, share your favorite programming languages, and 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ahmedembeddedx/Everything_but_Assembly/blob/main/LICENSE) - see the [LICENSE.md](https://github.com/ahmedembeddedx/Everything_but_Assembly/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE) - see the [LICENSE.md](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE) file for details.
 
 Happy coding, assembly-avoiders!
