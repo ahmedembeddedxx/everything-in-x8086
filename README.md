@@ -1,6 +1,5 @@
 # Everything but Assembly
 
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE)
 
 ## Overview
@@ -22,9 +21,10 @@ Welcome to the "Everything but Assembly or x8086" repository! If you've ever tho
 ## Getting Started
 
 1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/ahmedembeddedxx/everything-in-x8086.git
-    ```
+
+   ```bash
+   git clone https://github.com/ahmedembeddedxx/everything-in-x8086.git
+   ```
 
 2. Dive into the diverse world of programming without worrying about assembly intricacies.
 
@@ -34,7 +34,8 @@ No need to worry about assembly prerequisites! Just bring your passion for progr
 
 ## How to Contribute
 
-We encourage you to contribute and make this repository even more diverse! Create a Pull Request and Submit. 
+We encourage you to contribute and make this repository even more diverse! Create a Pull Request and Submit.
+
 ## Support and Community
 
 Connect with fellow programmers, share your favorite programming languages, and discuss the beauty of coding without assembly in our community space (coming soon).
@@ -43,4 +44,13 @@ Connect with fellow programmers, share your favorite programming languages, and 
 
 This project is licensed under the [MIT License](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE) - see the [LICENSE.md](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE) file for details.
 
-Happy coding, assembly-avoiders!
+## Special Thanks to our contributors
+
+[Asad Tariq](https://github.com/ASD0x41) for the incredible tool
+[Yousha](https://github.com/youshasm)
+[Ibtehaj](https://github.com/Ibtehaj778)
+[Abdullah](https://github.com/abdullaharif381)
+[Tah Moris](https://github.com/Tahmooras-Khan)
+for compiling projects...
+
+Happy coding, assembly-avoiders! I hope this subject ends soon...enjoy it till it lasts.
