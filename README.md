@@ -1,7 +1,7 @@
 # Everything but Assembly
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedxx/everything-in-x8086/blob/main/LICENSE)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedembeddedxx.everything-in-x8086)
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=ahmedembeddedxx&repo=everything-in-x8086&countColor=%237B1E7A)
 
 ## Overview
 
